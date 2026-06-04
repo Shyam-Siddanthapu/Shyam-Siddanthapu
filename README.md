@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shyam Siddanthapu
 
-## 🚀 Full Stack Developer | AI Engineering | Cloud Solutions Architect
+## 🚀 Full Stack Developer | .Net | Angular | MS SQL | AZURE | AI Engineering
 
 Welcome to my GitHub profile! I'm a **results-driven Full Stack Developer** with **6+ years** of experience building scalable enterprise applications. I specialize in **.NET Core**, **Angular**, **Azure**, and **AI-assisted development** to deliver high-performance solutions.
 
@@ -85,7 +85,7 @@ A powerful SQL Test Data Script Generator for QA engineers and developers to saf
 - **Features**: Safe data generation, SQL Server integration, QA automation
 - **Impact**: Streamlines testing workflow for database-driven applications
 
-### [Siva Rupini Interiors Demo](https://github.com/Shyam-Siddanthapu/siva-rupini-interiors-demo)
+### [Siva Rupini Interiors](https://github.com/Shyam-Siddanthapu/siva-rupini-interiors-demo)
 Modern, responsive web application showcasing interior design services with sleek UI/UX.
 - **Tech Stack**: TypeScript, Angular, Modern Web Technologies
 - **Highlights**: Responsive design, professional interface
